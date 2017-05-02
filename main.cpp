@@ -10,6 +10,9 @@
 #include "ground.hpp"
 #include "player.hpp"
 
+// THIS GAME WILL ONLY WORK IN x86 MODE
+// USING X64 CAUSES MANY FATAL CRASHES
+
 using namespace std;
 
 extern int lines;
